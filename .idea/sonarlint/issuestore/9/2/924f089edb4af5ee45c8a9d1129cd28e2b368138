@@ -1,0 +1,12 @@
+
+]
+java:S1220""Move this file to a named package.8ïôå–ÿ1J$33bf554b-da44-453d-873a-8a135c44ccbf
+‡
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ÚÅ¦Ò8õå–ÿ1J$e0a866d1-9dfc-4fb4-bf46-7023fe0f2220
+‰	java:S899"BDo something with the "boolean" value returned by "createNewFile".(—³Àÿÿÿÿÿ8Ÿõå–ÿ1J$7e144402-118a-4fe3-ae87-90246e9d3764
+‚	java:S899#";Do something with the "boolean" value returned by "delete".(ñŸêÿÿÿÿÿ8æª›—ÿ1J$cffee1f0-6b10-444c-85d0-52fad97bb7f3
+–
+java:S4042#"NUse "java.nio.file.Files#delete" here for better messages on error conditions.(ñŸêÿÿÿÿÿ8¯õå–ÿ1J$94ca68ca-c5c2-4288-98a3-680eef9a4cfc
+v
+java:S1481#".Remove this unused "isDeleted" local variable.(ñŸêÿÿÿÿÿ8æª›—ÿ1J$14f544ba-c207-4b4d-8e44-1af6232a85ee
+r	java:S106*"+Replace this use of System.out by a logger.(ùÓ’œùÿÿÿÿ8„¼ë–ÿ1J$4f6706df-d781-495d-bad3-b08be0c44d06
